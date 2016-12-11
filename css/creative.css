@@ -1,0 +1,390 @@
+
+
+
+.front p {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	width:500px;
+	top:190px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 100;
+}
+
+.front a {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	text-decoration: none;
+	text-align:center;
+	position:relative;
+	top:300px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 100;
+	color:orange;
+	opacity:.80;
+	border:1px solid;
+	border-color:orange;
+	width:100px;
+}
+
+.front a:hover {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	text-decoration: none;
+	text-align:center;
+	position:relative;
+	top:300px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 100;
+	color:orange;
+	opacity:1.0;
+}
+
+.front h1 {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	text-decoration: none;
+	text-align:center;
+	position:relative;
+	top:200px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 100;
+}
+
+.front hr {
+	width:460px;
+	position:relative;
+	top:310px;
+	color:orange;
+}
+
+body {
+	background-color: black;
+	font-size:1.4em;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 100;
+	color:orange;
+}
+
+#question1{
+	text-align: center;
+	margin-left: auto;
+	position:relative;
+	top:60px;
+}
+
+#question1 h3 {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:650px;
+}
+
+#question1 p input {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+#question2{
+	text-align: center;
+	margin-left: auto;
+	position:relative;
+	top:60px;
+}
+
+#question2 h3 {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:650px;
+}
+
+#question2 p input {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+
+#question3 {
+	text-align: center;
+	margin-left: auto;
+	position:relative;
+	top:60px;
+}
+
+#question3 h3 {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:650px;
+}
+
+#question3 p input {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+
+#question4 {
+	text-align: center;
+	margin-left: auto;
+	position:relative;
+	top:60px;
+}
+
+#question4 h3 {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:650px;
+}
+
+#question4 p input {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+#pagemovement1 a {
+	display:inline;
+	float:right;
+	padding-right:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:100px;
+	color:orange;
+	opacity:.80;
+}
+
+#pagemovement1 a:hover {
+	display:inline;
+	float:right;
+	padding-right:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:100px;
+	color:orange;
+	opacity:1.0;
+}
+
+/*
+#pagemovement1 a:hover {
+	display:inline;
+	float:right;
+	padding-right:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:100px;
+	color:orange;
+	opacity:1.0;
+} */
+
+#pagemovement3 a {
+	display:inline;
+	float:left;
+	padding-left:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:300px;
+	color:orange;
+	opacity:.80;
+}
+
+#pagemovement3 a:hover {
+	display:inline;
+	float:left;
+	padding-left:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:300px;
+	color:orange;
+	opacity:.80;
+}
+
+
+#pagemovement4 a {
+	display:inline;
+	float:right;
+	padding-right:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:300px;
+	cursor:pointer;
+	color:orange;
+	opacity:.80;
+}
+
+
+#pagemovement4 a:hover {
+	display:inline;
+	float:right;
+	padding-right:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:300px;
+	cursor:pointer;
+	color:orange;
+	opacity:1.0;
+}
+
+
+#pagemovement2 a {
+	display:inline;
+	float:left;
+	padding-left:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:100px;
+	color:orange;
+	opacity:.80;
+}
+
+#pagemovement2 a:hover {
+	display:inline;
+	float:left;
+	padding-left:200px;
+	padding-bottom:50px;
+	text-decoration:none;
+	position:relative;
+	top:100px;
+	color:orange;
+	opacity:1.0;
+}
+
+
+#submit p {
+	text-align:center;
+	margin-left:auto;
+	position:relative;
+	top:60px;
+}
+
+
+#final h3 {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	position:relative;
+	top:120px;
+	border:1px solid;
+	width:350px;
+}
+
+#final p{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:350px;
+	position:relative;
+	top:120px;
+	font-size:20px;
+}
+
+#final ul{
+	display:block;
+	margin-left:33%;
+	text-decoration:none;
+	position:relative;
+	top:160px;
+}
+
+#final li {
+	text-decoration:none;
+}
+
+#final a{
+	text-decoration:none;
+	color:orange;
+	opacity:.70;
+}
+
+#final a:hover{
+	text-decoration:none;
+	color:orange;
+	opacity:1.0;
+}
+
+.title p {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	top:80px;
+	cursor:pointer;
+	width:100px;
+}
+
+.title p:hover {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	top:80px;
+	width:100px;
+	color:red;
+}
+
+.text p {
+	opacity:0.9;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	size:16px;
+	border: 1px solid;
+	border-color:orange;
+	padding:5px;
+	width:400px;
+	position:relative;
+	top:80px;
+}
+
+.embed-p5 iframe{
+	vertical-align: center;
+	margin-left:5%;
+
+}
+
+#answers {
+	margin-left:43%;
+	position:relative;
+	top:60px;
+}
+
+#answers2 {
+	margin-left:43%;
+	position:relative;
+	top:60px;
+}
+
+.instructions {
+	opacity:.80;
+	width:400px;
+	border: 1px solid;
+	border-color:orange;
+	margin:auto;
+	position:relative;
+	top:400px;
+}
+
+.instructions li {
+	size:8px;
+}
+
+.instruction ul {
+	padding:5px;
+}
